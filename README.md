@@ -4,6 +4,8 @@
 [![YouTube](https://img.shields.io/badge/YouTube-CleiltonSousa-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CleiltonSousa-hw6fj)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-CleiltonSousa-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleiltonss/)
 [![GitHub](https://img.shields.io/badge/GitHub-Cleiltonss-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cleiltonss)
+[![Instagram]([https://img.shields.io/badge/GitHub-Cleiltonss-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cleiltonss](https://www.instagram.com/cleilton.ss/))
+
 
 ---
 
@@ -19,7 +21,5 @@
 ---
 
 ## 📫 Contatos
-- [YouTube](https://www.youtube.com/@CleiltonSousa-hw6fj)  
-- [LinkedIn](https://www.linkedin.com/in/cleiltonss/)  
-- [GitHub](https://github.com/Cleiltonss)  
+- Telefone & WhatsApp: +55(11)960620741   
 - E-mail: cleilton.mecatronico@gmail.com  

@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Cleilton Sousa Serra
+🚀 Engenheiro Mecatrônico | Cientista de Dados | Desenvolvedor Full Stack
 
-<!--
-**Cleiltonss/Cleiltonss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 Projetos em Destaque
+- [**Sistema de Controle de Carro Autônomo**](link_projeto): Navegação autônoma baseada em ROS2 para veículos robóticos.  
+- [**Classificador de Notícias com Data Science**](link_projeto): Classificação de notícias utilizando pandas e técnicas de aprendizado de máquina.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias & Ferramentas
+- **Linguagens:** Python, C++, HTML, CSS, JavaScript, SQL
+- **Frameworks:** React, Flask, TensorFlow
+- **Automação & Sistemas Embarcados:** SCADA, TiaPortal, STM32
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Contatos
+- 🌐 [LinkedIn](https://www.linkedin.com/in/cleiltonss/)  
+- 📧 cleilton.mecatronico@gmail.com  
+- 👨‍💻 [GitHub](https://github.com/Cleiltonss)  

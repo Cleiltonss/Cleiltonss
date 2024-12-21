@@ -11,27 +11,27 @@
 ## 🌟 Projetos em Destaque
 
 ### 🎮 [Pygame - Jogo da Pacobrinha](https://github.com/Cleiltonss/Pygame-2021.2)
-Desenvolvimento de um jogo estilo **Snake** utilizando **Pygame**. O projeto explora conceitos de lógica de programação aplicada em jogos 2D, manipulação de sprites e controle de eventos com teclado, proporcionando uma experiência divertida e interativa.
+Jogo estilo Snake feito com **Pygame**. Controle simples, colisões e pontuação.
 
 ---
 
 ### ⚗️ [Pipetadora Automática](https://github.com/Cleiltonss/PM_Pipeta_Automatica)
-Projeto de automação para **pipetagem automática de líquidos** em laboratório. Utilizando **C++ e microcontroladores STM32**, a pipetadora realiza o controle preciso de líquidos, otimizando processos repetitivos e aumentando a eficiência em análises laboratoriais.
+Automação de pipetagem com **STM32 e C++**. Projeto para laboratórios.
 
 ---
 
 ### ⚙️ [Acionamento de Motor BiStep](https://github.com/Cleiltonss/PM_Pipeta_Automatica)
-Controle e acionamento de **motor de passo bipolar** utilizando placas da família STM32. O projeto implementa drivers para acionamento de motores brushless e bipolares, utilizando **Ponte-H e controle por IHM (Interface Homem-Máquina)** em C++.
+Controle de motor de passo com **STM32** e interface para movimentação precisa.
 
 ---
 
 ### 🤖 [Braço Colaborativo UR - Renata Bakery](https://github.com/Cleiltonss/UR_Colaborativo_RenataBakery)
-Desenvolvimento de um **braço robótico colaborativo** para a empresa **Renata Bakery**, capaz de cortar bolos em diferentes formatos. A solução utiliza **visão computacional (OpenCV)** e comunicação via **Modbus**, integrando robótica com automação industrial para maximizar a produção.
+Braço robótico para corte de bolos. Utiliza **OpenCV** e comunicação **Modbus**.
 
 ---
 
 ### 🌐 [WebSite - Sistema Nemo de RPG](https://github.com/Cleiltonss/WebSite_SystemRPG)
-Desenvolvimento de um **site para gerenciamento de RPG de mesa**. Criado com **HTML, CSS e JavaScript**, o sistema fornece uma interface intuitiva para jogadores, permitindo gerenciamento de personagens, histórias e interações durante as partidas.
+Site para gerenciamento de RPG feito com **HTML, CSS e JavaScript**.
 
 ---
 

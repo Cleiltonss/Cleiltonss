@@ -36,9 +36,16 @@ Site para gerenciamento de RPG feito com **HTML, CSS e JavaScript**.
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
-- **Linguagens:** Python, C++, HTML, CSS, JavaScript, SQL
-- **Frameworks:** React, Flask, TensorFlow
-- **Automação & Sistemas Embarcados:** SCADA, TiaPortal, STM32
+- **Linguagens de Programação:** Python, C++, HTML, CSS, JavaScript, SQL, Ladder, React, Flask, LabView  
+- **Automação & Sistemas Embarcados:** SCADA E3 Elipse, TiaPortal, CodeSys, STM32 (F e L), ROS2  
+- **Visão Computacional e Machine Learning:** TensorFlow, OpenCV, Pytest, Pandas  
+- **Modelagem & Simulação:** Fusion 360, NX, AutoCAD, SolidEdge, Proteus 8 Professional, StarCCM  
+- **Desenvolvimento Web:** HTML5, CSS3, JavaScript, React.js  
+- **Banco de Dados:** SQL, GitHub (gerenciamento de versões e CI/CD)  
+- **Eletrônica & IoT:** Prototipagem de circuitos, PCBs, controle de motores (bipolar e brushless), sensores industriais  
+- **Ferramentas DevOps:** Git, GitHub Actions, Docker  
+- **Outros:** Machining CNC (código G), Pneumática, Hidráulica  
+
 
 ---
 

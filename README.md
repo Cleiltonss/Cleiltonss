@@ -16,13 +16,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Cleiltonss/Cleiltonss/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
 ### 🚀 Skills and Tools:
 <div style="display: flex; align-items: center; justify-content: space-around;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>

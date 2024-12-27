@@ -36,7 +36,7 @@ RPG management website made with **HTML, CSS, and JavaScript**.
 - **Programming Languages:** Python, C++, HTML, CSS, JavaScript, SQL, Ladder, React, Flask, LabView  
 - **Automation & Embedded Systems:** SCADA E3 Elipse, TiaPortal, CodeSys, STM32 (F and L), ROS2  
 - **Computer Vision and Machine Learning:** TensorFlow, OpenCV, Pytest, Pandas  
-- **Modeling & Simulation:** Fusion 360, NX, AutoCAD, SolidEdge, Proteus 8 Professional, StarCCM  
+- **Modeling & Simulation:** Fusion 360, NX, AutoCAD, SolidEdge, Proteus 8 Professional, StarCCM, Matlab 
 - **Web Development:** HTML5, CSS3, JavaScript, React.js  
 - **Databases:** SQL, GitHub (version control and CI/CD)  
 - **Electronics & IoT:** Circuit prototyping, PCBs, motor control (bipolar and brushless), industrial sensors  

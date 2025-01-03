@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Cleilton Sousa!  
 
-🚀 Passionate about tech, automation, and building cool projectdsdsdsds!  
+🚀 Passionate about tech, automation, and building cool projects!  
 
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CleiltonSousa-hw6fj) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleiltonss/) 

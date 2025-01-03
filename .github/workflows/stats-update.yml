@@ -26,3 +26,5 @@ jobs:
           git add README.md
           git commit -m "Atualizar GitHub Stats [Automático]" || echo "Nada para comitar"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}

@@ -13,18 +13,24 @@ jobs:
     steps:
       - name: Checkout do Repositório
         uses: actions/checkout@v3
+        with:
+          persist-credentials: false  # Desabilita persistência das credenciais
 
-      - name: Atualizar README com GitHub Stats
-        run: |
-          curl -o README.md "https://github-readme-stats.vercel.app/api?username=Cleiltonss&show_icons=true&theme=radical"
-      
-      - name: Commit e Push se Alterado
+      - name: Configurar Credenciais
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git pull origin main || echo "Nenhuma atualização para pull"
+
+      - name: Atualizar README com GitHub Stats
+        run: |
+          # Substitua o conteúdo abaixo pelo comando adequado para atualizar seu README
+          # Por exemplo, você pode usar um script para atualizar as estatísticas no README.md
+          echo "Atualizando README.md com novas estatísticas..."
+
+      - name: Commit e Push se Alterado
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}  # Certifique-se de que o secret GH_PAT está configurado
+        run: |
           git add README.md
           git commit -m "Atualizar GitHub Stats [Automático]" || echo "Nada para comitar"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+          git push origin main

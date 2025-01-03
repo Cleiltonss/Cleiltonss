@@ -12,7 +12,7 @@
 ### 💻 About Me:
 - 🎓 **Mechatronics Engineering Student** at **INSPER** (Full Scholarship)  
 - 💡 Constantly exploring **Machine Learning**, **Computer Vision**, and **Automation**  
-- 🔧 Building projects in **robotics, embedded systems, and industrial automation**  
+- 🔧 Building projects in **robotics, embedded systems, and industrial automaton**  
 - 🛠️ Tech Stack: **Python, C++, LabView, React, TensorFlow, OpenCV**  
 - ✨ I love solving problems and creating innovative solutions!  
 

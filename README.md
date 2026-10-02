@@ -129,9 +129,10 @@ depend on the output.
 
 ## Stats
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cleiltonss&show_icons=true&include_all_commits=true&count_private=true&theme=nightowl&hide_border=true&bg_color=00000000" height="160" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cleiltonss&layout=compact&card_width=330&langs_count=6&theme=nightowl&hide_border=true&bg_color=00000000" height="160" alt="languages"/>
-</div>
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cleiltonss&radius=16&theme=nightowl&area=true&hide_border=true&bg_color=00000000" width="100%" alt="activity"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Cleiltonss&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide=issues,contribs&theme=nightowl&hide_border=true&card_width=400" height="150" alt="stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cleiltonss&layout=compact&langs_count=4&theme=nightowl&hide_border=true&card_width=330" height="150" alt="languages"/>
+
+</div>

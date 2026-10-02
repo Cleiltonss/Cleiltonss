@@ -118,14 +118,23 @@ Campaign and character management for tabletop RPG sessions.
 
 ## Background
 
-**Mechatronics Engineering** — Insper, class of 2026
-Full merit scholarship
+**Mechatronics Engineering** — Insper, São Paulo<br>
+2021 – 2026 · Full merit scholarship · GPA 8.5/10
+
+**Research Exchange** — Technion, Israel Institute of Technology, Haifa<br>
+2023 · Aerospace Engineering
+
+**Exchange Semester** — Maastricht University (SBE), Netherlands<br>
+2025 · Business and Economics, full scholarship
+
+**Technical Degree in Industrial Mechanics** — IFCE, Fortaleza<br>
+2014 – 2017 · GPA 8.7/10
+
+<br>
 
 Currently building AI and automation systems for a B2B SaaS attribution
 platform, where I work between the engineering team and the people who
 depend on the output.
-
-<br>
 
 ## Stats
 

@@ -140,8 +140,8 @@ depend on the output.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Cleiltonss&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide=issues,contribs&theme=nightowl&hide_border=true&card_width=400" height="150" alt="stats"/>
+<img src="profile/stats.svg" height="150" alt="GitHub stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cleiltonss&layout=compact&langs_count=4&theme=nightowl&hide_border=true&card_width=330" height="150" alt="languages"/>
+<img src="profile/top-langs.svg" height="150" alt="Top languages"/>
 
 </div>
